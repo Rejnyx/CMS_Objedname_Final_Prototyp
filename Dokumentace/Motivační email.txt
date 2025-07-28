@@ -1,0 +1,24 @@
+Předmět: Zájem o pozici Designéra | David Rajnoha
+
+Dobrý den,
+
+reaguji na vaši nabídku práce na pozici designéra. Musím říct, že váš inzerát mě okamžitě zaujal, protože přesně vystihuje to, jak o designu a vývoji přemýšlím.
+
+Věta "hezké bez smyslu je stejně špatně jako funkční bez empatie" je přesně to, čím se řídím. Pro mě design nikdy nebyl jen o hezkých obrázcích, ale o tom, jak věc ve výsledku funguje a jestli reálně někomu pomáhá. Vždycky se snažím nejdřív pochopit, pro koho to dělám a jaký problém mu to má vyřešit.
+
+Abych vám ukázal, jak pracuju v praxi, a ne jen o tom mluvil, posílám rovnou malý projekt, na kterém jsem v poslední době pracoval. Je to prototyp komponenty pro správu menu v CMS systému. Snažil jsem se na to dívat přesně tak, jak píšete – z pohledu člověka, který to bude denně používat. Od prvotního průzkumu, přes definování person, až po funkční prototyp a finální design.
+
+Byl to projekt, který mě strašně bavil, protože jsem si mohl projít celým procesem od A do Z.
+
+Zde posílám odkazy:
+
+Odkaz na funkční prototyp (Netlify): [Zde vložte odkaz na Váš Netlify projekt]
+Odkaz na design ve Figmě: [Zde vložte odkaz na Váš Figma projekt]
+
+Ta role u vás mi dává obrovský smysl a věřím, že bych do týmu skvěle zapadl. Moc rád bych se s vámi o tom pobavil osobně.
+
+Díky za Váš čas a mějte se fajn.
+
+S pozdravem,
+
+David Rajnoha

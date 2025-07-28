@@ -1,0 +1,22 @@
+Předmět: Reakce na pozici Designéra v Objednáme
+
+Dobrý den,
+
+píšu vám ohledně vaší nabídky práce na pozici designéra. Musím říct, že mě okamžitě zaujala, hlavně vaše myšlenka, že "design není jen o tom, jak věci vypadají, ale hlavně o tom, jak fungují". Přesně takhle o své práci přemýšlím a je super vidět firmu, která to má stejně.
+
+Nechtěl jsem posílat jen klasické CV, tak jsem se rozhodl, že vám rovnou ukážu, jak pracuju a přemýšlím v praxi. Vytvořil jsem proto malý projekt – prototyp aplikace pro správu menu v restauraci. Chtěl jsem si na něm projít celý proces od začátku do konce.
+
+Nejdřív jsem se zamyslel, pro koho to vlastně dělám (pro manažerku, co potřebuje efektivitu, i pro číšníka, co potřebuje rychlost). Pak jsem rovnou v kódu postavil funkční základ, abych si ověřil, že to dává smysl a dobře se to používá. Teprve potom jsem se vrátil do Figmy, kde jsem navrhl finální vzhled a jednoduchý design systém, který jsem následně do prototypu implementoval.
+
+Věřím, že právě tenhle přístup – od empatie přes funkčnost až po hezký design – je to, co hledáte.
+
+Níže posílám odkazy na živý prototyp nasazený na Netlify a na související designy ve Figmě. Budu moc rád, když si to projdete.
+
+Odkaz na prototyp: [Zde vložte odkaz na Netlify]
+Odkaz na Figmu: [Zde vložte odkaz na Figmu]
+
+Díky moc za váš čas a budu se těšit na případnou odpověď.
+
+S pozdravem,
+
+David Rajnoha
