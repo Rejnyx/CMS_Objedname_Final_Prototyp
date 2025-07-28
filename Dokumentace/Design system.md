@@ -13,7 +13,7 @@ Barvy jsou definovány v `tailwind.config.js` a doplněny o specifické hodnoty 
   - `primary-600`: `#E6621A` (Použito pro hover stavy)
   - `active-bg`: `#FFEEE2` (Pozadí aktivních prvků v sidebaru)
   - `orange-500`: (Výchozí Tailwind barva) Použito pro text aktivní položky v sidebaru a notifikační tečku.
-  - Zvláštní chování: Komponenta `Button` s variantou `primary` má natvrdo nastaveno pozadí `#626262` (`neutral-600`).
+  - Komponenta `Button` s variantou `primary` má natvrdo nastaveno pozadí `#626262` (`neutral-600`).
 
 - **Neutral (Neutrální):**
   - `neutral-0`: `#FFFFFF` (Pozadí tlačítek s ikonou, vyhledávacího pole v headeru)
